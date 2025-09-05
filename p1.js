@@ -1,4 +1,4 @@
-console.log("hello");
+console.log("to do list change in javascript");
 let inputBox=document.getElementById("insert");
 let addtask=document.getElementById("addtask");
 let taskList=document.getElementById("taskList");
